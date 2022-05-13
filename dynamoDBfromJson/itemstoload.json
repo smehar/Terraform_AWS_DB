@@ -1,0 +1,94 @@
+{
+    "Client": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "clientId": {
+                        "S": "AYGO"
+                    },
+                    "clientAge": {
+                        "N": "22"
+                    },
+                    "oth": {
+                        "S": "xxx"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "clientId": {
+                        "S": "EMY"
+                    },
+                    "clientAge": {
+                        "N": "22"
+                    },
+                    "oth": {
+                        "S": "xxx"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "clientId": {
+                        "S": "ISA"
+                    },
+                    "clientAge": {
+                        "N": "22"
+                    },
+                    "oth": {
+                        "S": "xxx"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "clientId": {
+                        "S": "ONI"
+                    },
+                    "clientAge": {
+                        "N": "22"
+                    },
+                    "oth": {
+                        "S": "xxx"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "clientId": {
+                        "S": "ULMA"
+                    },
+                    "clientAge": {
+                        "N": "22"
+                    },
+                    "oth": {
+                        "S": "xxx"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "clientId": {
+                        "S": "YOURI"
+                    },
+                    "clientAge": {
+                        "N": "22"
+                    },
+                    "oth": {
+                        "S": "xxx"
+                    }
+                }
+            }
+        }
+    ]
+}
